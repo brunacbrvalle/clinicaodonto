@@ -8,7 +8,7 @@ Este repositório contém o projeto de um sistema web para gestão completa de u
 
 ## 1. Fluxo de Trabalho e Processos (BPMN)
 
-O fluxo cobri toda a jornada do paciente, desde a captação do lead até o pós-tratamento e
+O fluxo cobre toda a jornada do paciente, desde a captação do lead até o pós-tratamento e
 manutenção.
 
 ### Estrutura do Fluxograma:
